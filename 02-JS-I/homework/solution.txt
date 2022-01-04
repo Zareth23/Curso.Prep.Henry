@@ -1,0 +1,5 @@
+Variables: Las variables permiten guardar algo en un lugar donde despues se pueda recuperarlo
+Strings: Son palabras o un hilo de letras o caracteres. Siempre empieza y termina con comillas.
+Funciones: Agrupa el codigo en un lugar para luego ejecutarse. RETURN: Funciones que retornan. Todas las funciones siempre retornan algo
+Declaraciones IF: Se usa para tomar desiciones. Evalua una operacion logica, es decir una expresion que de como resultado TRUE O FALSE
+Valores booleanos: representa un valor de verdad; es decir TRUE O FALSE.
